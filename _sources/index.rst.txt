@@ -1,0 +1,116 @@
+.. unat documentation master file, created by
+   sphinx-quickstart on Sat Jul 20 09:53:00 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+##################
+UnAT documentation
+##################
+
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+
+    contents/getting_started/__main
+    contents/user_guide/__main
+    contents/api_reference/__main
+    contents/development/__main
+
+
+The *Uncertainty Analysis Tools* is a `Python <https://www.python.org>`_ project that provides several useful services for handling uncertain quantities.
+
+
+************
+Installation
+************
+
+.. code-block::
+
+    pip install unat
+
+
+*****************
+Where do I start?
+*****************
+
+.. grid:: 2
+
+    .. grid-item-card::
+        :img-top: _static/image/index_getting_started.svg
+
+
+        Getting Started
+        ^^^^^^^^^^^^^^^
+
+
+        .. div:: sd-text-justify
+
+            New to UnAT? Take a quick look at some background theory and learn what kind of problems UnAT solves.
+
+
+        +++
+
+        .. button-ref:: contents/getting_started/__main
+            :expand:
+            :color: primary
+            :click-parent:
+
+            To the beginner's guide
+
+    .. grid-item-card::
+        :img-top: _static/image/index_user_guide.svg
+
+        User Guide
+        ^^^^^^^^^^
+
+        .. div:: sd-text-justify
+
+            Learn how to use UnAT! The user guide provides tutorials and examples for all UnAT tools.
+
+        +++
+
+        .. button-ref:: contents/user_guide/__main
+            :expand:
+            :color: primary
+            :click-parent:
+
+            To the user guide
+
+    .. grid-item-card::
+        :img-top: _static/image/index_api.svg
+
+        API Reference
+        ^^^^^^^^^^^^^
+
+        .. div:: sd-text-justify:
+
+            The reference guide contains a detailed description of the entities (classes and functions) implemented by UnAT.
+
+        +++
+
+        .. button-ref:: contents/api_reference/__main
+            :expand:
+            :color: primary
+            :click-parent:
+
+            To the API reference
+
+    .. grid-item-card::
+        :img-top: _static/image/index_contribute.svg
+
+        Development
+        ^^^^^^^^^^^
+
+        .. div:: sd-text-justify
+
+            Need to improve or add services? Can contribute somehow? Want to know what's happening with the project?
+
+        +++
+
+        .. button-ref:: contents/development/__main
+            :expand:
+            :color: primary
+            :click-parent:
+
+            To the development page

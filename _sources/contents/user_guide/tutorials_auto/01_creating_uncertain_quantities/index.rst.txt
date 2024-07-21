@@ -1,0 +1,50 @@
+
+
+.. _sphx_glr_contents_user_guide_tutorials_auto_01_creating_uncertain_quantities:
+
+*****************************
+Creating Uncertain Quantities
+*****************************
+
+These tutorials present the ``UncertainQuantity`` type, which can be certainly
+considered the entry point of the UnAT. It is mostly intended to the user that
+have measurements collected from an experiment and now needs to handle it in a
+simple fashion. Here, you will learn UnAT most basic tools to visualise your
+samples and bla bla bla.
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="It is often the case where measurements of an experiment are collected ...">
+
+.. only:: html
+
+  .. image:: /contents/user_guide/tutorials_auto/01_creating_uncertain_quantities/images/thumb/sphx_glr_plot_01_create_from_measurements_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_contents_user_guide_tutorials_auto_01_creating_uncertain_quantities_plot_01_create_from_measurements.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Dealing with measurement data</div>
+    </div>
+
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /contents/user_guide/tutorials_auto/01_creating_uncertain_quantities/plot_01_create_from_measurements
+
